@@ -189,6 +189,6 @@ plt.show()
 
 # Results
 ```
-
+The Outputs are verified Succesfully 
 ```
 # Hardware experiment output waveform.
