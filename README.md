@@ -1,4 +1,4 @@
-<img width="1390" height="989" alt="2" src="https://github.com/user-attachments/assets/ea67eeda-fc1d-43ca-b66b-f340af07bc03" />    # Ideal, Natural, & Flat-top -Sampling
+# Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
@@ -184,6 +184,7 @@ plt.show()
 ```
 # Output Waveform
 ```
+<img width="1390" height="989" alt="2" src="https://github.com/user-attachments/assets/ea67eeda-fc1d-43ca-b66b-f340af07bc03" />   
 <img width="1398" height="990" alt="3" src="https://github.com/user-attachments/assets/96c4e19d-9890-4b33-a025-06137b11e9cd" />
 <img width="1390" height="989" alt="2" src="https://github.com/user-attachments/assets/880bc459-14c5-419e-8df1-dad33376d1e7" />
 <img width="866" height="393" alt="1" src="https://github.com/user-attachments/assets/61ffe3d6-c452-4ac6-90f1-b0d9edbb5900" />
